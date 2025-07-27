@@ -9,7 +9,6 @@ A simple and user-friendly **currency converter** web application built using **
 - Convert between major international currencies
 - Real-time exchange rates
 - Easy-to-use and responsive user interface
-- Clean and minimal UI built with React
 
 ## 🛠️ Technologies Used
 
