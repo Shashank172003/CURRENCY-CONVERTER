@@ -1,6 +1,6 @@
 # 💱 Currency Converter
 
-This is a simple and responsive currency converter application built using **React**. It allows users to convert between various currencies in real-time using an external API.
+A simple and user-friendly **currency converter** web application built using **HTML**, **CSS**, and **JavaScript**. It allows users to convert one currency to another in real-time using live exchange rates.
 
 ![Currency Converter Screenshot](./image/1.png)
 
