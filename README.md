@@ -13,26 +13,9 @@ A simple and user-friendly **currency converter** web application built using **
 
 ## 🛠️ Technologies Used
 
-- React
 - HTML/CSS
 - JavaScript (ES6+)
-- Currency Exchange API (like exchangerate-api.com or any other you may have used)
-
-## 📁 Folder Structure
-
-CURRENCY-CONVERTER/
-├── node_modules/
-├── public/
-├── src/
-│ ├── components/
-│ ├── App.js
-│ ├── index.js
-│ └── ...
-├── image/
-│ └── 1.png
-├── package.json
-├── README.md
-└── ...
+- Free Exchange Rate API (such as exchangerate-api.com or any you used)
 
 
 ## ⚙️ Setup Instructions
